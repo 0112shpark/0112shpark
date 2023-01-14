@@ -22,6 +22,7 @@
 
  
 [![Top Langs](https://github-readme-stats-pxek-0112shpark.vercel.app/api/wakatime?username=@0112shpark&layout=compact)](https://github.com/0112shpark/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats-pxek-0112shpark.vercel.app/api/top-langs/?username=0112shpark&layout=compact&langs_count=8)](https://github.com/0112shpark/github-readme-stats)
 #
 ## 🐍 Snake 🐍
