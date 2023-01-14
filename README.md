@@ -19,8 +19,7 @@
 ## 🍭 Stats 🍭
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0112shpark&show_icons=true&theme=radical&count_private=true)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0112shpark&layout=compact)](https://github.com/0112shpark/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@0112shpark&layout=compact" />
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0112shpark&layout=compact)](https://github.com/0112shpark/github-readme-stats)
 #
