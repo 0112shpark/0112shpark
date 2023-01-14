@@ -5,7 +5,7 @@
 <a href = "https://www.instagram.com/tjdgusqkr12/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0112shpark&show_icons=true&theme=vue)](https://github.com/0112shpark/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0112shpark&show_icons=true&theme=radical)
 
 <!--
 **0112shpark/0112shpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
