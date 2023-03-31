@@ -22,6 +22,16 @@
 ## 🔍 FrameWorks 🔍
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
 
+<img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black"/></a>
+
+#
+##  🔧Tools🔧
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/></a>
+
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white"/></a>
+
 #
 ## ✏️ Deploy ✏️
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/></a>  
@@ -29,6 +39,8 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white"/></a>  
 
 <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub+Pages&logoColor=white"/></a>  
+
+<img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black"/></a>
 
 #
 ## 🍭 Stats 🍭
