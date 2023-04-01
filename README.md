@@ -32,6 +32,8 @@
 
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white"/></a>
 
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white"/></a>
+
 #
 ## ✏️ Deploy ✏️
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/></a>  
