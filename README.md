@@ -5,6 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=0112shpark&color=FF5200" alt="watching_count" /> 
 <br>
 <br>
+[![wakatime](https://wakatime.com/badge/user/8935cb41-20ec-4ef7-a356-85e4cfa9b97e.svg)](https://wakatime.com/@8935cb41-20ec-4ef7-a356-85e4cfa9b97e)
 <a href = "https://www.instagram.com/tjdgusqkr12/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 #
 ## 🌱 Available Languages🌱
