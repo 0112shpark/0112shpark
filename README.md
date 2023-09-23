@@ -51,8 +51,7 @@
 
 <a href = "https://github.com/0112shpark/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-pxek-0112shpark.vercel.app/api?username=0112shpark&show_icons=true&theme=radical&count_private=true">
-</a>
-<a href = "https://github.com/0112shpark/github-readme-stats">
+</a><a href = "https://github.com/0112shpark/github-readme-stats">
   <img height = 200 align="center" src="https://github-readme-stats-pxek-0112shpark.vercel.app/api/top-langs/?username=0112shpark&layout=compact&langs_count=8">
 </a>
 
